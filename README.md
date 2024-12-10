@@ -13,7 +13,7 @@ A simple and secure password generator that creates random passwords with custom
 
 The extension is compatible with the following browsers:
 - [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/cryptographicpasswordgenerator/)
-- Microsoft Edge
+- [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/npipkomkgidnnfgnjackeglfmdhgfffc)
 
 ## Changelog
 Detailed release notes can be found in the [CHANGELOG.md](CHANGELOG.md).
